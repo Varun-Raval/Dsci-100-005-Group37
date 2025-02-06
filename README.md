@@ -6,3 +6,6 @@ This is the message you are supposed to see
 
 
 hello
+
+
+We are cool
